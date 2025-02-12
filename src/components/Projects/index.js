@@ -20,8 +20,7 @@ const Projects = ({ openModal, setOpenModal }) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I possess comprehensive expertise in web development and data
-          structures and algorithms, and I am proficient in problem-solving.
+          I possess comprehensive expertise in web development and mobile app development.
         </Desc>
         <ToggleButtonGroup>
           {toggle === "all" ? (
