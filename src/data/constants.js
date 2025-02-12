@@ -7,7 +7,7 @@ export const Bio = {
     "I'm a passionate Developer and designer with expertise in creating captivating user experiences. With a keen eye for design and a knack for crafting pixel-perfect interfaces.",
   github: "https://github.com/piyushchry",
   resume:
-    "https://drive.google.com/file/d/13dWNwOEGg5cxk2Ah7rKzSFmTTfURzTGL/view?usp=sharing",
+    "https://drive.google.com/file/d/1AWkO0NZeqH4RRrbA5bkmxlS4OuRMSSVR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/piyushchry/",
   insta: "https://www.instagram.com/__piyushchaudhary__/",
   github: "https://github.com/piyushchry",
